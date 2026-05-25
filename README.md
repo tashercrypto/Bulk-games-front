@@ -1,1 +1,1 @@
-# Bulk-games-front
+# bulk-games-frontend
